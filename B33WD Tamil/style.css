@@ -1,0 +1,9 @@
+#staringdiv {
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+:root {
+    -o-object-fit: fill;
+}
